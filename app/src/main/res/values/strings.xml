@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="DetailMovies">Detail Film</string>
+    <string name="ket_details">Details</string>
+</resources>
